@@ -1,19 +1,6 @@
-<!-- ABOUT THE PROJECT -->
-# About The Project / Problem Statement
+# HTTP Webhook to Event Hub
 
-## Target Audience
-
-## Proposed Solution / Architecture
-
-## Prerequisites and Assumptions
-
-## Solution Components
-
-## Implementation
-
-## Security Considerations
-
-## Notes
+Simple Azure function to demonstrate an http input with event hub entry output.
 
 ### Trademarks
 
